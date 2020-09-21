@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "antd-mobile": "^2.3.3",
+    "history": "^5.0.0"
+  }
+}
